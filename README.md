@@ -1,1 +1,3 @@
-# mnist_playground
+# MNIST playground  
+
+A repo for experiments on MNIST.
